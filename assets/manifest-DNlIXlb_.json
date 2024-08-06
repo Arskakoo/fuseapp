@@ -1,7 +1,7 @@
 {
   "name": "Sulake",
   "short_name": "Sulake",
-  "start_url": "https://arskakoo.github.io/sulakeapp/",
+  "start_url": "https://arskakoo.github.io/Sulakeapp/",
   "display": "standalone",
   "background_color": "#ffffff",
   "description": "",
@@ -39,7 +39,7 @@
   ],
   "related_applications": [
     {
-      "url": "https://arskakoo.github.io/sulakeapp/"
+      "url": "https://arskakoo.github.io/Sulakeapp/"
     }
   ]
 }
